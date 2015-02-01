@@ -1,0 +1,28 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @spot.title %>
+</p>
+
+<p>
+  <strong>Location:</strong>
+  <%= @spot.location %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @spot.description %>
+</p>
+
+  <%= include_gon %>   
+ 
+<h2>leaflet map</h2>
+<div id="map" class="map"></div>
+
+
+    
+
+
+<%= link_to 'Edit', edit_spot_path(@spot) %> |
+<%= link_to 'Back', spots_path %>

@@ -1,0 +1,6 @@
+app/models/spot.rb f0561bc3eff53fa4cf259f6433f806fbd5cd5c65
+app/helpers/spots_helper.rb f81332a8c1eaac5060193fc12963252f8177c096
+app/helpers/application_helper.rb eef3d3adce96afe8b14c19b6135323f47543d979
+app/controllers/spots_controller.rb f6e367a03a7e31f4967092fea7159308ce54d78d
+app/controllers/application_controller.rb 7afa8bd02d2c49fd8df3c6e372b8520c9f916e8e
+app/models/user.rb 2d93c79dba9a4ebead849018c196cf6dd3bd3776
