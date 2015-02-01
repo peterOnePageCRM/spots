@@ -1,7 +1,0 @@
-{
-  "name": "dsl-generated dependencies",
-  "dependencies": {
-    "leaflet": "latest",
-    "leaflet.locatecontrol": "latest"
-  }
-}
